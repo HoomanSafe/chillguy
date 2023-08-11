@@ -14,14 +14,12 @@ const About = () => {
           ABOUT DAFIDO
         </h1>
         <p className="max-w-[811px] text-center text-white text-lg font-normal leading-[48px]">
-          Pepe and Toad the memecoin Launched on the ethereum. Our mission is to
-          provide a fun, community-driven investment opportunity that celebrates
-          the power of memes and pop culture. With a vision to become the
-          leading memecoin in the market, we believe Pepe and Toad is the
-          perfect addition to any investor’s portfolio. Join us on this journey
-          to revolutionize the world of memecoins. the market, we believe Pepe
-          and Toad is the perfect addition to any investor’s portfolio. Join us
-          on this journey to revolutionize the world of memecoins.
+          DeFido can only grow and accomplish his mission with YOUR help. We
+          believe in the power of our community. Spread the word on social media
+          platforms, answer questions, help people, tell your friends. Or, if
+          you have specialized skills, contact us: smart contract development,
+          web development, multimedia/marketing etc. We also welcome help in
+          moderating our communities.
         </p>
 
         <a

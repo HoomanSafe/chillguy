@@ -12,7 +12,7 @@ const Footer = () => {
         </p>
 
         <div className="flex items-center gap-5">
-          <a href="">
+          <a href="https://t.me/DefiDoerc">
             <svg
               width="33"
               height="32"
@@ -38,7 +38,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="https://t.me/getrichquickschemeerc">
+          <a href="https://twitter.com/DefiDoerc">
             <svg
               width="41"
               height="32"

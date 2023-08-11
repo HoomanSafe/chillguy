@@ -35,7 +35,7 @@ const Hero = () => {
           </div>
 
           <div className="flex items-center  gap-5 mt-10">
-            <a href="">
+            <a href="https://t.me/DefiDoerc">
               <svg
                 width="32"
                 height="32"
@@ -56,7 +56,7 @@ const Hero = () => {
                 </defs>
               </svg>
             </a>
-            <a href="">
+            <a href="https://twitter.com/DefiDoerc">
               <svg
                 width="40"
                 height="32"
