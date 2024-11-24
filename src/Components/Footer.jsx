@@ -12,7 +12,7 @@ const Footer = () => {
         </p>
 
         <div className="flex items-center gap-5">
-          <a href="https://t.me/DefiDoerc">
+          <a href="https://t.me/Chillguymascot">
             <svg
               width="33"
               height="32"
@@ -38,7 +38,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="https://twitter.com/DefiDoerc">
+          <a href="https://x.com/Chillguymascotbnb">
             <svg
               width="41"
               height="32"
@@ -114,7 +114,7 @@ const Footer = () => {
       </div>
       <div className="w-full mt-10 pt-[29px] pb-7 bg-emerald-400 justify-center items-center inline-flex">
         <div className="container text-zinc-900 text-xl font-medium leading-9 text-center">
-          Copyright © 2023 DAFIDO. All Rights Reserved.
+          Copyright © 2023 CHILLGUY. All Rights Reserved.
         </div>
       </div>
     </footer>
