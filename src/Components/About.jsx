@@ -1,5 +1,5 @@
 import React from "react";
-import aboutPattern from "../assets/banner1.jpg";
+import aboutPattern from "../assets/banner1.png";
 
 const About = () => {
   return (
