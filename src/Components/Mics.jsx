@@ -1,5 +1,5 @@
 import React from "react";
-import micsPattern from "../assets/micsPattern.svg";
+import micsPattern from "../assets/banner1.jpg";
 
 const Mics = () => {
   return (
