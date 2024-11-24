@@ -34,7 +34,7 @@ const Mics = () => {
           <div className="flex-col justify-start items-center gap-5 inline-flex">
             <div className="pl-[39.37px] pr-[38.63px] pt-[38.10px] pb-[37.90px] bg-gradient-to-b from-sky-600 to-emerald-500 rounded-full shadow-inner justify-center items-center inline-flex">
               <div className="text-white text-[40.64px] font-goodGame leading-[50.80px] tracking-wide">
-                2%
+                5%
               </div>
             </div>
             <div className="flex-col justify-start items-center flex">
