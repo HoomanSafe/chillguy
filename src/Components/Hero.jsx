@@ -14,7 +14,7 @@ const Hero = () => {
           </p>
           <div className="font-goodGame justify-start items-start gap-5 inline-flex">
             <a
-              href=""
+              href="https://pancakeswap.finance/?outputCurrency=0x8915bb63333F4dF55Cf496592ddc16442F64111f"
               className="h-[54px] px-8 py-4 bg-gradient-to-b from-emerald-500 to-sky-600 rounded shadow justify-center items-center gap-2.5 flex"
             >
               <div className="text-zinc-900 text-base font-normal leading-snug tracking-tight">
@@ -22,7 +22,7 @@ const Hero = () => {
               </div>
             </a>
             <a
-              href=""
+              href="https://www.dextools.io/app/en/bnb/pair-explorer/0xfda781316f54480811db81ed6d73dcdb1fd71a6e?t=1732452773919"
               className="h-[54px] px-8 py-4 bg-gradient-to-b from-emerald-400 to-sky-600 rounded shadow justify-center items-center gap-2.5 flex"
             >
               <div className="text-zinc-900 text-base font-normal leading-snug tracking-tight">
