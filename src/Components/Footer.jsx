@@ -52,7 +52,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="">
+          <a href="https://bscscan.com/token/0x8915bb63333f4df55cf496592ddc16442f64111f">
             <svg
               width="33"
               height="32"
@@ -82,7 +82,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="">
+          <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0xfda781316f54480811db81ed6d73dcdb1fd71a6e?t=1732452773919">
             <svg
               width="29"
               height="32"
