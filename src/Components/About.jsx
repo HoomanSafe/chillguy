@@ -1,5 +1,5 @@
 import React from "react";
-import aboutPattern from "../assets/aboutPattern.svg";
+import aboutPattern from "../assets/banner1.jpg";
 
 const About = () => {
   return (
@@ -11,15 +11,12 @@ const About = () => {
       />
       <div className="container flex flex-col justify-center items-center gap-12">
         <h1 className="text-emerald-400 text-7xl font-goodGame text-center leading-[80px] tracking-wider">
-          ABOUT DAFIDO
+          ABOUT ChillGuy
         </h1>
         <p className="max-w-[811px] text-center text-white text-lg font-normal leading-[48px]">
-          DeFido can only grow and accomplish his mission with YOUR help. We
-          believe in the power of our community. Spread the word on social media
-          platforms, answer questions, help people, tell your friends. Or, if
-          you have specialized skills, contact us: smart contract development,
-          web development, multimedia/marketing etc. We also welcome help in
-          moderating our communities.
+          ChillGuy Mascot embodies the relaxed yet powerful aura of Elon Musk. 
+          Holding this token means you’re connected to a vibe of innovation, forward-thinking,
+          and effortless cool.
         </p>
 
         <a
@@ -27,7 +24,7 @@ const About = () => {
           className="h-[54px] px-8 py-4 bg-gradient-to-b from-emerald-500 to-sky-600 rounded shadow justify-center items-center gap-2.5 flex"
         >
           <div className="text-zinc-900 text-2xl font-goodGame leading-snug tracking-tight">
-            BUY ON UNISWAP
+            BUY ON PANCAKESWAP
           </div>
         </a>
       </div>
