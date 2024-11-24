@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo1.png";
 
 const Hero = () => {
   return (
@@ -7,13 +7,10 @@ const Hero = () => {
       <div className="container grid grid-cols-1 lg:grid-cols-2 justify-between items-center gap-y-16">
         <article className="flex flex-col gap-5">
           <h1 className=" text-white text-6xl leading-[73px] lg:text-7xl font-goodGame lg:leading-[86.40px] tracking-wider">
-            Let’s Meet DeFido! Token inspired by a Tweet
+            Let’s Meet ChillGuts! Elon’s Chill Energy 🔸
           </h1>
           <p className="max-w-[522px] text-white text-base font-normal leading-loose tracking-tight">
-            Floki, Meet DeFido! This brand new token was born merely moments
-            after Coinbase tweeted their dog named “DeFido” at Elon Musk. & this
-            French Bulldog is ready for lift off! Come join him on his journey
-            to the Moon base and beyond!
+           ChillGuy Mascot embodies the relaxed yet powerful aura of Elon Musk.
           </p>
           <div className="font-goodGame justify-start items-start gap-5 inline-flex">
             <a
@@ -21,7 +18,7 @@ const Hero = () => {
               className="h-[54px] px-8 py-4 bg-gradient-to-b from-emerald-500 to-sky-600 rounded shadow justify-center items-center gap-2.5 flex"
             >
               <div className="text-zinc-900 text-base font-normal leading-snug tracking-tight">
-                BUY ON UNISWAP
+                BUY ON PANCAKESWAP
               </div>
             </a>
             <a
@@ -29,13 +26,13 @@ const Hero = () => {
               className="h-[54px] px-8 py-4 bg-gradient-to-b from-emerald-400 to-sky-600 rounded shadow justify-center items-center gap-2.5 flex"
             >
               <div className="text-zinc-900 text-base font-normal leading-snug tracking-tight">
-                BUY ON UNISWAP
+                CHART
               </div>
             </a>
           </div>
 
           <div className="flex items-center  gap-5 mt-10">
-            <a href="https://t.me/DefiDoerc">
+            <a href="https://t.me/Chillguymascot">
               <svg
                 width="32"
                 height="32"
@@ -56,7 +53,7 @@ const Hero = () => {
                 </defs>
               </svg>
             </a>
-            <a href="https://twitter.com/DefiDoerc">
+            <a href="https://x.com/Chillguymascotbnb">
               <svg
                 width="40"
                 height="32"
